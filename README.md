@@ -13,8 +13,7 @@ A simple Pomodoro timer designed to boost productivity and focus using the Pomod
 3. Click "Reset" to restart the timer and set it back to 25 minutes.
 
 ## Style
-The timer features a minimalist design with a stylish font and vibrant button colors. The background image adds a touch of elegance to the overall appearance.
-
+The timer features a minimalist design with a stylish font and vibrant button colors.The background image adds contrast to the overall look.
 ## Tecnologías
 - HTML
 - CSS
